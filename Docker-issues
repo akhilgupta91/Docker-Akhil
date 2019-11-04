@@ -1,0 +1,3 @@
+/var full: no new containers
+ - docker system prune
+ - /var/lib/docker/aufs
